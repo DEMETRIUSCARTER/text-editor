@@ -1,6 +1,6 @@
 <h1 align="center">Text Editor</h1>
 
- <p align="center">Barscapes is a collaborative MERN-stack single-page application that combines a scalable MongoDB back end, a GraphQL API, and an Express.js and Node.js server with a React front end, implementing user authentication with JWT to build a user-focused platform.</p>
+ <p align="center">A text editor that runs in the browser. The app is a single-page application that meets PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.</p>
 
  ## Links
 

@@ -4,7 +4,7 @@
 
  ## Links
 
- - [Repo](https://github.com/SophiaAramburu/TheFinalCodeDown)
+ - [Repo](https://github.com/DEMETRIUSCARTER/text-editor)
 
  - [Live Application](https://github.com/SophiaAramburu/TheFinalCodeDown)
 

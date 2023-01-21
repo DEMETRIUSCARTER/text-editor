@@ -59,3 +59,6 @@
  ## Author
 
  - [DEMETRIUS CARTER](https://github.com/DEMETRIUSCARTER)
+ 
+ COMPLETED WITH THE ASSISTANCE OF THIS TUTORIAL :
+ https://web.dev/indexeddb/

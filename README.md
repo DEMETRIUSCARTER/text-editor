@@ -50,9 +50,7 @@
  - NPM
  - HTML
  - CSS
- - MongoDB
- - GraphQL
- - Express.js
+ - IndexedDB
 
  ## Future Updates
 

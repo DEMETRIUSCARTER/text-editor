@@ -60,6 +60,6 @@
 
  - [DEMETRIUS CARTER](https://github.com/DEMETRIUSCARTER)
  
- COMPLETED WITH THE ASSISTANCE OF THESE TUTORIALS:
- https://web.dev/indexeddb/
- https://web.dev/codelab-make-installable/
+ ## COMPLETED WITH THE ASSISTANCE OF THESE TUTORIALS
+ - mhttps://web.dev/indexeddb/
+ - https://web.dev/codelab-make-installable/

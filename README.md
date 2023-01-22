@@ -2,48 +2,22 @@
 
  <p align="center">A text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.</p>
 
- ## Links
+ ## LINKS
 
  - [Repo](https://github.com/DEMETRIUSCARTER/text-editor)
 
- - [Live Application]()
 
- ## Screenshots
+ ## SCREENSHOTS
 
- ![Home Page](/screenshots/1.png "Home Page")
+ <img src="https://i.ibb.co/vLqS8mB/Screenshot-2023-01-21-at-8-21-47-PM.png" alt="Screenshot-2023-01-21-at-8-21-47-PM" border="0">
 
- ![](/screenshots/2.png)
+ <img src="https://i.ibb.co/BwmLtWz/Screenshot-2023-01-21-at-9-29-16-PM.png" alt="Screenshot-2023-01-21-at-9-29-16-PM" border="0">
 
- ![](/screenshots/3.png)
+ ## CURRENT FUNCTIONALITY
 
- ## Available Commands
+This application is currently not functioning properly. When running "npm install" and "npm start" after download the starter code I receive "error: no test specified" and "missing script: start" error messages. 
 
- In the project directory, you can run:
-
- ### `npm start" : "react-scripts start"`,
-
- The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
- You will also see any lint errors in the console.
-
- ### `"npm run build": "react-scripts build"`,
-
- Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
- ### `"npm run test": "react-scripts test"`,
-
- Launches the test runner in the interactive watch mode.
-
- ### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
-
- For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
-
- ### `"serve": "node server"`
-
- For running the server file on you can use this command.
-
- ### `npm run serve`
-
- ## Built With
+ ## BUILT WITH
 
  - JavaScript
  - Node
@@ -52,11 +26,7 @@
  - CSS
  - IndexedDB
 
- ## Future Updates
-
-
-
- ## Author
+ ## AUTHOR
 
  - [DEMETRIUS CARTER](https://github.com/DEMETRIUSCARTER)
  
